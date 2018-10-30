@@ -1,0 +1,1 @@
+Run the code and execute the app before contributing .
